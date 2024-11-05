@@ -14,7 +14,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cubysoft/connext-cli.git"
+    "url": "git://github.com/cubysot/connext-cli"
   },
   "keywords": [
     "cli",
